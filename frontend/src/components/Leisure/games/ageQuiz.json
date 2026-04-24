@@ -1,0 +1,113 @@
+{
+  "title": "Ugani starost otroka 🍼",
+  "description": "Mini igra za 1 minuto: ugani, kdaj se tipično pojavijo določeni mejniki — brez stresa in brez “prav mora biti”. Vsak otrok ima svoj tempo 👶✨",
+  "questions": [
+    {
+      "question": "Glavica je vedno bolj stabilna (ni več “bob!”) 💪",
+      "options": ["1–2 meseca", "3–4 mesece", "7–8 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Okoli 3–4. meseca je glavica običajno že precej bolj “pod kontrolo” (ampak je povsem normalno, da ni isto pri vseh)."
+    },
+    {
+      "question": "Prvi preobrati: iz hrbta na trebušček 🔄",
+      "options": ["2–3 mesece", "4–6 meseci", "10–12 mesecev"],
+      "correctIndex": 1,
+      "explanation": "To se pogosto zgodi nekje med 4–6 meseci — in ja, nekateri dojenčki so pri tem “leni geniji”."
+    },
+    {
+      "question": "Sedenje brez opore (in ponosni nasmeh zraven) 🪑",
+      "options": ["4–5 mesecev", "6–8 mesecev", "12–14 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Veliko otrok sedi samostojno okoli 6–8 mesecev, ampak ni tekma — vsak ima svoj timing."
+    },
+    {
+      "question": "Plazenje / kobacanje (ali “tulenje po tleh”) 🐾",
+      "options": ["5–6 mesecev", "7–10 meseci", "15–18 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Pogosto se pojavi med 7–10 meseci — in čisto normalno je tudi, da plazenje otrok preskoči."
+    },
+    {
+      "question": "Prvi samostojni koraki (mini pijani pingvin moment) 🚶",
+      "options": ["9–10 mesecev", "12–15 meseci", "20–24 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Veliko otrok naredi prve korake okoli 12–15 mesecev, ampak nekateri raje še malo “šparajo energijo”."
+    },
+    {
+      "question": "Prva prava beseda (ne samo “aaaa”) 🗣️",
+      "options": ["6–8 mesecev", "9–12 meseci", "16–18 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Prve besede se pogosto pojavijo nekje med 9–12 meseci — in tudi tu je razpon čisto normalen."
+    },
+    {
+      "question": "Prvi socialni nasmeh (tisti, ki stopi srce 😍)",
+      "options": ["1–2 meseca", "3–4 mesece", "6–7 mesecev"],
+      "correctIndex": 0,
+      "explanation": "Prvi pravi socialni nasmeh se pogosto pojavi okoli 1–2 meseca — in ja, takrat se svet malo ustavi 🥹"
+    },
+    {
+      "question": "Prijemanje predmetov (in vse gre direktno v usta 😄)",
+      "options": ["2–3 mesece", "4–6 mesecev", "9–10 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Okoli 4–6 mesecev začnejo dojenčki aktivno grabiti stvari — in jih seveda testirati z usti 👶"
+    },
+    {
+      "question": "Reakcija na svoje ime (\"Hej ti!\" 👀)",
+      "options": ["3–4 mesece", "6–9 mesecev", "12–14 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Večina otrok začne reagirati na svoje ime nekje med 6–9 meseci."
+    },
+    {
+      "question": "Kazanje s prstom (\"TO hočem!\" 👉)",
+      "options": ["6–8 mesecev", "9–12 mesecev", "15–18 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Kazanje je pomemben komunikacijski mejnik, pogosto okoli 9–12 mesecev."
+    },
+    {
+      "question": "Ploskanje (mini aplavz 👏)",
+      "options": ["5–6 mesecev", "8–10 mesecev", "14–16 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Ploskanje se običajno pojavi okoli 8–10 mesecev — in postane hitro najljubša aktivnost 😄"
+    },
+    {
+      "question": "Pije iz kozarca (z malo polivanja 😅)",
+      "options": ["6–7 mesecev", "9–12 mesecev", "15–18 mesecev"],
+      "correctIndex": 1,
+      "explanation": "Okoli 9–12 mesecev otroci začnejo eksperimentirati s pitjem iz kozarca (in ja, voda je povsod 💦)."
+    },
+    {
+      "question": "Prva \"ne\" (in močno mnenje zraven 😤)",
+      "options": ["8–10 mesecev", "12–18 mesecev", "2–3 leta"],
+      "correctIndex": 1,
+      "explanation": "Razumevanje in uporaba \"ne\" se pogosto razvije med 12–18 meseci — skupaj z značajem 😉"
+    },
+    {
+      "question": "Sestavljanje 2 besed (\"mama daj\" 💬)",
+      "options": ["12–14 mesecev", "18–24 mesecev", "3 leta"],
+      "correctIndex": 1,
+      "explanation": "Kombiniranje besed se pogosto začne med 18–24 meseci."
+    }
+  ],
+  "results": [
+    {
+      "minScore": 0,
+      "maxScore": 2,
+      "title": "Skupaj raziskujeta 🌱",
+      "description": "Čisto okej — to ni test in nihče ne dobi značke za popoln rezultat. Razvoj ni po urniku in vsak otrok ima svoj tempo 💛",
+      "support": "Tvoj najmočnejši “mejnik” je prisotnost — in to že delaš."
+    },
+    {
+      "minScore": 3,
+      "maxScore": 4,
+      "title": "Dober mama-filing 👀",
+      "description": "Lepo! Ujameš tipične okvire, hkrati pa veš, da so otroci mala unikatna vesolja.",
+      "support": "Zaupaj sebi — tvoja toplina in opazovanje sta največ. 💖"
+    },
+    {
+      "minScore": 5,
+      "maxScore": 6,
+      "title": "Mini strokovnjakinja 🧠✨",
+      "description": "Wow! Tvoj radar za mejnike je res dober — ali imaš izkušnje, ali pa si ena tistih mam, ki berejo “za 5 minut” in potem 40 minut 😉",
+      "support": "In vseeno: tudi tvoj otrok ima svoj ritem — in to je čisto prav. 🌸"
+    }
+  ]
+}

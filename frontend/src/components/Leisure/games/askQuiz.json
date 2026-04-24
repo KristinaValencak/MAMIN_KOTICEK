@@ -1,0 +1,131 @@
+{
+    "title": "Kaj bi naredila? 🤭",
+    "description": "Resnične situacije iz vsakdanjega življenja. Kaj bi TI naredila? In kaj bi naredile druge mame? 👀",
+    "scenarios": [
+    {
+    "question": "Otrok naredi meltdown sredi trgovine 😵",
+    "options": [
+    { "text": "Ignoriram in nadaljujem", "percentage": 28 },
+    { "text": "Grem ven in ga pomirim", "percentage": 47 },
+    { "text": "Podkupim s čokolado 😅", "percentage": 25 }
+    ]
+    },
+    {
+    "question": "Otrok noče obuti čevljev, vi pa zamujata ⏰",
+    "options": [
+    { "text": "Vztrajam, pa če traja", "percentage": 34 },
+    { "text": "Obujem ga sama na hitro", "percentage": 41 },
+    { "text": "Popustim in improviziram 😅", "percentage": 25 }
+    ]
+    },
+    {
+    "question": "Otrok noče jesti kosila 🍝",
+    "options": [
+    { "text": "Vztrajam, da vsaj nekaj poje", "percentage": 38 },
+    { "text": "Ponudim alternativo", "percentage": 42 },
+    { "text": "Ok, danes pač ne 😅", "percentage": 20 }
+    ]
+    },
+    {
+    "question": "Otrok se zbudi ponoči že tretjič 🌙",
+    "options": [
+    { "text": "Grem takoj do njega", "percentage": 46 },
+    { "text": "Počakam malo", "percentage": 27 },
+    { "text": "Sem že zombi 😵‍💫", "percentage": 27 }
+    ]
+    },
+    {
+    "question": "Hiša je v kaosu, ti pa si izčrpana 🧸",
+    "options": [
+    { "text": "Pospravim, da imam mir", "percentage": 30 },
+    { "text": "Pustim za jutri", "percentage": 50 },
+    { "text": "Ignoriram in grem počivat 💖", "percentage": 20 }
+    ]
+    },
+    {
+        "question": "Otrok noče v avtosedež (in se zvija kot hobotnica) 🚗",
+        "options": [
+          { "text": "Ostanem mirna in vztrajam", "percentage": 39 },
+          { "text": "Poskusim zamotiti z igračo", "percentage": 44 },
+          { "text": "Mini živčni zlom 😅", "percentage": 17 }
+        ]
+      },
+      {
+        "question": "Otrok hoče ISTO pravljico že 5. večer zapored 📖",
+        "options": [
+          { "text": "Preberem še enkrat", "percentage": 52 },
+          { "text": "Poskusim predlagati drugo", "percentage": 33 },
+          { "text": "Skrajšam zgodbo 😄", "percentage": 15 }
+        ]
+      },
+      {
+        "question": "Otrok poliije sok po sveže očiščenih tleh 🧃",
+        "options": [
+          { "text": "Globok vdih in brišem", "percentage": 48 },
+          { "text": "Malo zavijem z očmi 🙃", "percentage": 34 },
+          { "text": "Se nasmejim, ker pač… življenje 😄", "percentage": 18 }
+        ]
+      },
+      {
+        "question": "Otrok noče iti iz igrišča 🛝",
+        "options": [
+          { "text": "Napovem odhod vnaprej", "percentage": 41 },
+          { "text": "Fizično ga odnesem (klasika)", "percentage": 37 },
+          { "text": "Še 5 minut… ki jih je 15 😅", "percentage": 22 }
+        ]
+      },
+      {
+        "question": "Otrok noče obleči jakne, zunaj pa je mraz 🧥",
+        "options": [
+          { "text": "Vztrajam, da jo obleče", "percentage": 36 },
+          { "text": "Vzamem s sabo za vsak slučaj", "percentage": 46 },
+          { "text": "Ok, naj občuti posledice 😬", "percentage": 18 }
+        ]
+      },
+      {
+        "question": "Otrok vrže hrano na tla 🍌",
+        "options": [
+          { "text": "Mirno razložim, da se to ne dela", "percentage": 43 },
+          { "text": "Ignoriram in pospravim", "percentage": 32 },
+          { "text": "Končam obrok", "percentage": 25 }
+        ]
+      },
+      {
+        "question": "Otrok hoče telefon v restavraciji 📱",
+        "options": [
+          { "text": "Ne dam, naj se zamoti drugače", "percentage": 38 },
+          { "text": "Dovolim za malo miru", "percentage": 44 },
+          { "text": "Pogajanja 😄", "percentage": 18 }
+        ]
+      },
+      {
+        "question": "Otrok noče umiti zob 🪥",
+        "options": [
+          { "text": "Naredim iz tega igro", "percentage": 49 },
+          { "text": "Vztrajam, brez debate", "percentage": 35 },
+          { "text": "Danes preskočimo 😅", "percentage": 16 }
+        ]
+      },
+      {
+        "question": "Otrok reče \"ne\" na vse 😤",
+        "options": [
+          { "text": "Ostanem mirna in dosledna", "percentage": 40 },
+          { "text": "Ponudim izbiro (A ali B)", "percentage": 45 },
+          { "text": "Se malo nasmejim in spustim", "percentage": 15 }
+        ]
+      },
+      {
+        "question": "Otrok zaspi v avtu 5 min pred domom 😴",
+        "options": [
+          { "text": "Ga previdno prenesem noter", "percentage": 42 },
+          { "text": "Se vozim še malo", "percentage": 36 },
+          { "text": "Parkiram in imam svoj mir 😄", "percentage": 22 }
+        ]
+      }
+    ],
+    "endingMessage": {
+    "title": "Ni pravilnih odgovorov 💛",
+    "text": "Vsaka mama reagira po svoje – in vse smo kdaj naredile vse tri opcije 😄 Nisi sama."
+    }
+    }
+    

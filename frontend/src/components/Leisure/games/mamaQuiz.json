@@ -1,0 +1,175 @@
+{
+  "title": "Kakšna mama si danes?",
+  "questions": [
+    {
+      "question": "Koliko kave si danes že spila? ☕",
+      "answers": [
+        { "text": "Niti ene (kako mi to uspeva?)", "type": "zen" },
+        { "text": "1–2, ravno prav", "type": "superhero" },
+        { "text": "3… ali 5? Ne štejem več 😅", "type": "survivor" },
+        { "text": "Kava me ne reši več ☠️", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kako je potekalo jutro? 🌅",
+      "answers": [
+        { "text": "Mirno, skoraj sumljivo mirno 😌", "type": "zen" },
+        { "text": "Kaos, ampak sem vse zrihtala 💪", "type": "superhero" },
+        { "text": "Preživela sem. To šteje 😅", "type": "survivor" },
+        { "text": "Nisem še prišla k sebi 🤯", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Otrok ima mini meltdown v trgovini 😵",
+      "answers": [
+        { "text": "Mirno reagiram in ga pomirim 🌿", "type": "zen" },
+        { "text": "Hitro rešim situacijo kot pro 💪", "type": "superhero" },
+        { "text": "Improvisiram in upam na najboljše 😅", "type": "survivor" },
+        { "text": "Notranje se zlomim 😭", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Koliko časa si danes imela zase? 💆‍♀️",
+      "answers": [
+        { "text": "Sem si ga dejansko vzela ✨", "type": "zen" },
+        { "text": "Malo, ampak sem ga izkoristila 💪", "type": "superhero" },
+        { "text": "5 minut na WC-ju šteje, ane 😅", "type": "survivor" },
+        { "text": "Kaj je to ‘čas zase’? 🤯", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kako se danes počutiš? 💭",
+      "answers": [
+        { "text": "Mirno in ok s sabo 🌿", "type": "zen" },
+        { "text": "Močno, zmorem vse 💪", "type": "superhero" },
+        { "text": "Utrujeno, ampak grem naprej 😅", "type": "survivor" },
+        { "text": "Preobremenjeno 😔", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Večer… kakšna so pričakovanja? 🌙",
+      "answers": [
+        { "text": "Upam na miren zaključek dneva 😌", "type": "zen" },
+        { "text": "Plan imam in ga bom izpeljala 💪", "type": "superhero" },
+        { "text": "Upam, da vsi čim prej zaspijo 😅", "type": "survivor" },
+        { "text": "Že zdaj sem izčrpana 😩", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kako si reagirala na prvo ‘mamiiiii!’ danes? 😄",
+      "answers": [
+        { "text": "Mirno in z nasmehom 🌿", "type": "zen" },
+        { "text": "Takoj v akcijo 💪", "type": "superhero" },
+        { "text": "Počasi… zelo počasi 😅", "type": "survivor" },
+        { "text": "Notranji krik 🤯", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kako izgleda tvoj telefon danes? 📱",
+      "answers": [
+        { "text": "Ga skoraj ne uporabljam ✨", "type": "zen" },
+        { "text": "Uporabno orodje za organizacijo 💪", "type": "superhero" },
+        { "text": "Scrollam, ko lahko 😅", "type": "survivor" },
+        { "text": "Preveč vsega, glava boli 🤯", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kosilo danes… 🍝",
+      "answers": [
+        { "text": "Nekaj preprostega in zdravega 🌿", "type": "zen" },
+        { "text": "Skuhano + planirano 💪", "type": "superhero" },
+        { "text": "Kar je bilo najhitreje 😅", "type": "survivor" },
+        { "text": "Sploh ne vem več 😵", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kako reagiraš, ko otrok noče sodelovati? 😤",
+      "answers": [
+        { "text": "Globok vdih in potrpežljivost 🌿", "type": "zen" },
+        { "text": "Postavim meje 💪", "type": "superhero" },
+        { "text": "Probam 3 različne pristope 😅", "type": "survivor" },
+        { "text": "Izgubim živce 😬", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Koliko si danes ‘multitaskala’? 🧠",
+      "answers": [
+        { "text": "Sem upočasnila tempo 🌿", "type": "zen" },
+        { "text": "Milijon stvari naenkrat 💪", "type": "superhero" },
+        { "text": "Preveč, ampak nekako gre 😅", "type": "survivor" },
+        { "text": "Glava mi bo eksplodirala 🤯", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kako izgleda tvoj dom trenutno? 🏠",
+      "answers": [
+        { "text": "Dovolj urejeno za mir 🌿", "type": "zen" },
+        { "text": "Pod kontrolo 💪", "type": "superhero" },
+        { "text": "Creative chaos 😅", "type": "survivor" },
+        { "text": "Ne gledam več 🙈", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Otrok noče spat… 😴",
+      "answers": [
+        { "text": "Ostanem mirna in prisotna 🌿", "type": "zen" },
+        { "text": "Imam rutino in jo držim 💪", "type": "superhero" },
+        { "text": "Probam vse možno 😅", "type": "survivor" },
+        { "text": "Sem že na robu 😩", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Tvoj energy level trenutno 🔋",
+      "answers": [
+        { "text": "Stabilen in miren 🌿", "type": "zen" },
+        { "text": "Visok, gremo 💪", "type": "superhero" },
+        { "text": "Na rezervi 😅", "type": "survivor" },
+        { "text": "0%… help 🤯", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Če imaš 10 min zase… ⏳",
+      "answers": [
+        { "text": "Diham / chillam 🌿", "type": "zen" },
+        { "text": "Naredim nekaj koristnega 💪", "type": "superhero" },
+        { "text": "Scroll + reset 😅", "type": "survivor" },
+        { "text": "Sploh ne vem, kje začeti 🤯", "type": "overwhelmed" }
+      ]
+    },
+    {
+      "question": "Kako danes govoriš sama s sabo? 💬",
+      "answers": [
+        { "text": "Nežno in razumevajoče 🌿", "type": "zen" },
+        { "text": "Motivacijsko 💪", "type": "superhero" },
+        { "text": "‘Ajde, še to zdržim’ 😅", "type": "survivor" },
+        { "text": "Preveč kritično 😔", "type": "overwhelmed" }
+      ]
+    }
+  ],
+  "results": {
+    "superhero": {
+      "title": "Superhero mama 💪",
+      "description": "Danes si v svojem elementu. Ni nujno, da je vse popolno, ampak ti obvladaš situacije in pelješ dan naprej kot prava šefica.",
+      "support": "Ne pozabi – tudi superheroji rabijo pavzo. Vzemi si trenutek samo zase 💖",
+      "share": "Danes sem superhero mama 💪✨"
+    },
+    "survivor": {
+      "title": "Preživela mama 😅",
+      "description": "Dan je malo kaotičen, ampak ti si še vedno tukaj – in to je ogromno. Delaš najboljše, kar lahko, in to je več kot dovolj.",
+      "support": "Korak po korak. Ne rabiš imeti vsega pod kontrolo 💛",
+      "share": "Danes samo preživim 😅 ampak šteje!"
+    },
+    "overwhelmed": {
+      "title": "Na robu živcev 🤯",
+      "description": "Danes je težko. Preveč stvari, premalo časa in energije. Ampak to ne pomeni, da nisi dobra mama – pomeni samo, da si človek.",
+      "support": "Globok vdih. Nisi sama. Tudi takšni dnevi minejo 🤍",
+      "share": "Danes je en tistih dni 🤯"
+    },
+    "zen": {
+      "title": "Zen mama 🌿",
+      "description": "Danes si presenetljivo mirna in prizemljena. Znaš upočasnit tempo in biti prisotna – in to je res posebna moč.",
+      "support": "Uživaj v tem občutku. Zaslužiš si ga 🌸",
+      "share": "Danes sem v zen modu 🌿"
+    }
+  }
+}
